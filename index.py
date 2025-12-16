@@ -6,7 +6,8 @@ st.markdown("""
     <style>
     img {
         border: 1px solid #dbdbdb;
-        width:200px
+        min-width:200px;
+        max-width:300px
     }
     </style>
 """, unsafe_allow_html=True)
