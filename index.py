@@ -2,6 +2,15 @@ import streamlit as st
 import cv2
 import numpy as np
 
+st.markdown("""
+    <style>
+    img {
+        border: 1px solid #dbdbdb;
+        min-width:200px
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 st.set_page_config(
     page_title="Correcting Nonuniform Illumination",
     layout="centered"
