@@ -3,6 +3,8 @@
 Aplikasi Streamlit untuk memperbaiki pencahayaan citra yang tidak merata
 menggunakan metode Gaussian-based illumination correction.
 
+https://correcting-nonuniform-illumination.streamlit.app/
+
 ## Cara Menjalankan (Local)
 ```bash
 pip install -r requirements.txt
